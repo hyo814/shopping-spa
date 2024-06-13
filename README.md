@@ -1,6 +1,7 @@
 # shopping-spa
 
 ## 쇼핑몰 SPA 프로젝트 요약
+https://programmers.co.kr/skill_check_assignments/199
 
 ### 프로젝트 개요
 이 프로젝트는 vanilla JavaScript를 사용하여 외부 라이브러리 없이 SPA(단일 페이지 애플리케이션) 형태의 쇼핑몰 사이트를 구축하는 것입니다. 총 3개의 페이지로 구성되며, 상품 목록 페이지, 상품 상세 페이지, 장바구니 페이지를 구현해야 합니다. 각 페이지는 아래 요구사항을 충족해야 합니다.
